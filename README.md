@@ -7,21 +7,24 @@ This report establishes the analytical bedrock for a comprehensive Brent oil pri
 ## 🔧 Project Structure
 
 ```bash
-brent-oil-analysis/
-├── data/
-│ └── BrentOilPrices.csv
-├── notebooks/
-│ └── brent_analysis.ipynb
-├── src/
-│ ├── init.py
-│ ├── eda.py
-│ └── bayesian_changepoint.py
-├── dashboard/
-│ ├── app.py
-│ └── components/
-├── README.md
-├── requirements.txt
-└── .env
+Birhan-Energies-week10/
+   .github/workflows/ci.yml,            
+    data/raw/.gitkeep,                   
+    data/processed/.gitkeep,              
+    docs/README.md,                       
+    models/.gitkeep,                      
+    notebooks/1.0-eda.ipynb,             
+    reports/final_report.md,         
+    reports/visualizations/,           
+    src/__init__.py,                      
+    src/data_processing.py,              
+    src/train.py,                         
+    src/predict.py,                      
+    src/api/main.py,                      
+    src/api/pydantic_models.py,          
+    tests/test_data_processing.py,        
+    Dockerfile,                          
+    docker-compose.yml            
 ```
 ---
 ## ✅ Features
