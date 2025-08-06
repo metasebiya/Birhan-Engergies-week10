@@ -6,6 +6,7 @@ This report establishes the analytical bedrock for a comprehensive Brent oil pri
 
 ## 🔧 Project Structure
 
+```bash
 brent-oil-analysis/
 ├── data/
 │ └── BrentOilPrices.csv
@@ -21,6 +22,7 @@ brent-oil-analysis/
 ├── README.md
 ├── requirements.txt
 └── .env
+```
 
 markdown
 Copy
