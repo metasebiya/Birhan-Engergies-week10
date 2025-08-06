@@ -1,6 +1,6 @@
 # Brent Oil Price Analysis
 
-This project performs a comprehensive analysis of Brent crude oil prices using Bayesian Change Point Detection, Exploratory Data Analysis (EDA), and builds an interactive dashboard to visualize key trends.
+This report establishes the analytical bedrock for a comprehensive Brent oil price modeling project. It meticulously defines a systematic data analysis workflow, detailing steps from data acquisition and pre-processing to model selection and validation. A critical component involves the compilation of a structured historical dataset of major geopolitical events, OPEC decisions, and global economic shocks, which are pivotal exogenous factors influencing oil markets. The report further addresses essential methodological considerations, including inherent assumptions and limitations of time series analysis, and critically distinguishes between statistical correlation and causal impact. This foundational work ensures a robust, methodologically sound framework for subsequent quantitative modeling and informed interpretation of Brent oil price dynamics.
 
 ---
 
