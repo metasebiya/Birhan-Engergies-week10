@@ -23,10 +23,6 @@ brent-oil-analysis/
 ├── requirements.txt
 └── .env
 ```
-
-markdown
-Copy
-Edit
 ---
 ## ✅ Features
 
